@@ -1,3 +1,10 @@
 title: Kimmy Leo's Portal
 description: Links and pages of Kimmy Leo
-theme: jekyll-theme-minimal
+theme: kimmy-site-theme
+plugins:
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-toc
+  - jekyll-seo-tag
+
+destination: docs

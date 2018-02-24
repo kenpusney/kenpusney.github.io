@@ -1,0 +1,1 @@
+gem 'kimmy-site-theme'
