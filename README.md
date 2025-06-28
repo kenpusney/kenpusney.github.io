@@ -1,5 +1,3 @@
-# Kimmy Leo's portal
-
 ### Personal site:
 
  - [Blank](http://kimleo.net/blank/): A blank page for front end tests
