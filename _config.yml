@@ -1,0 +1,11 @@
+title: Kimmy's Portal
+description: "Links and works of Kimmy Liu."
+
+theme: jekyll-theme-primer
+
+github:
+  private: false
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/kenpusney/kenpusney.github.io"
